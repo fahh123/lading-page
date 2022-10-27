@@ -153,6 +153,17 @@ h1 {
     width: 40%;
 }
 
+
+
+.imagem-sobre{
+    width: 60%;
+
+}
+
+.texto-sobre {
+    width: 50% ;
+}
+
 .texto-participantes {
     color: white;
     font-family: 'Courier New', Courier, monospace;
